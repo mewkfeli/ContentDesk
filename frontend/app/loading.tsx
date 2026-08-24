@@ -1,0 +1,1 @@
+export default function Loading(){return <div className="auditLoading pageLoading"><div className="loader"/><div><strong>Загружаю ContentDesk</strong><p>Подготавливаю данные рабочего пространства.</p></div></div>}
